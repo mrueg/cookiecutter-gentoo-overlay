@@ -1,0 +1,16 @@
+{
+  "overlay_name": "Your repository name",
+  "aliases": "",
+  "masters": "gentoo",
+  "eapis_banned": "1",
+  "eapis_deprecated": "0 2 3 4",
+  "sign_commits": "true",
+  "sign_manifests": "true",
+  "thin_manifests": "true",
+  "use_manifests": "strict",
+  "manifest_hashes": "SHA256 SHA512 WHIRLPOOL",
+  "update_changelog": "false",
+  "cache_formats": "md5-dict",
+  "profile_eapi_when_unspecified": "",
+  "profile_formats": "portage-2"
+}
