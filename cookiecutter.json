@@ -1,4 +1,6 @@
 {
+  "create_repoman_travis_cfg": "y",
+  "create_readme": "y",
   "overlay_name": "Your repository name",
   "aliases": "",
   "masters": "gentoo",
